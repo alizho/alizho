@@ -6,7 +6,7 @@ i'm alicia!
 
 pursuing CS @ purdue & interested in technical design
 
-i also [draw](https://www.are.na/alicia-zhou/art-obxt_mrkhe8) and create [games](https://www.jam.ms/) in my free time
+i also [draw]([https://www.are.na/alicia-zhou/art-obxt_mrkhe8](https://kiwis.page/)) and create [games](https://www.jam.ms/) in my free time
 
 ---
 
