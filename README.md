@@ -10,4 +10,4 @@ i also [draw](https://kiwis.page/) and create [games](https://www.jam.ms/) in my
 
 ---
 
-[![views](https://komarev.com/ghpvc/?username=alizho&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/alizho) [![site](https://img.shields.io/badge/Website-aliciazhou.xyz-313131?style=flat&labelColor=545454)](https://www.aliciazhou.xyz/)
+[![views](https://komarev.com/ghpvc/?username=alizho&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/alizho) [![site](https://img.shields.io/badge/Website-alicias.age-313131?style=flat&labelColor=545454)](https://www.alicias.page/)
