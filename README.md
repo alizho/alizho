@@ -1,5 +1,5 @@
 <!-- <img align="left" src="https://i.pinimg.com/originals/36/0a/7f/360a7f094680fa280619848ecb0ff6e4.gif"> -->
-<img align="left" src="https://i.pinimg.com/originals/81/6b/f0/816bf03234d66f330997c0283d03f518.gif" width="300">
+<img align="left" src="https://i.pinimg.com/originals/65/63/b5/6563b5efa2f218378f50fdda6276a734.gif" width="300">
 
 ### hi there
 i'm alicia!
